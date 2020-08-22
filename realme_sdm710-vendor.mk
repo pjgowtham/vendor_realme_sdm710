@@ -954,6 +954,10 @@ PRODUCT_COPY_FILES += \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/vendor.qti.latency@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.latency@2.0.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/android.frameworks.fingerprintservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.frameworks.fingerprintservice@1.0.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/btaudio_offload_if.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/5p_com.qti.tuned.holitech_gc2375h.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/5p_com.qti.tuned.holitech_gc2375h.bin \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/5p_com.qti.tuned.sunny_hi846.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/5p_com.qti.tuned.sunny_hi846.bin \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/5p_com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/5p_com.qti.tuned.truly_imx471.bin \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/5p_libarcsoft_low_light_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/5p_libarcsoft_low_light_hdr.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.gc2375h.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.gc2375h.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.gc5035.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.gc5035.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.hi846.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.hi846.so \
