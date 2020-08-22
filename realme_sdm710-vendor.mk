@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/realme_sdm710/proprietary/framework/audiosphere.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/audiosphere.jar \
     vendor/realme/realme_sdm710/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/realme/realme_sdm710/proprietary/lib/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib/fm_helium.so \
+    vendor/realme/realme_sdm710/proprietary/lib/libchromaflash.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libchromaflash.so \
     vendor/realme/realme_sdm710/proprietary/lib/libfm-hci.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libfm-hci.so \
     vendor/realme/realme_sdm710/proprietary/lib/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmrtpdecoder.so \
     vendor/realme/realme_sdm710/proprietary/lib/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmrtpencoder.so \
@@ -52,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/realme_sdm710/proprietary/lib64/libfm-hci.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfm-hci.so \
     vendor/realme/realme_sdm710/proprietary/lib64/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmmrtpdecoder.so \
     vendor/realme/realme_sdm710/proprietary/lib64/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmmrtpencoder.so \
+    vendor/realme/realme_sdm710/proprietary/lib64/libseemore.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libseemore.so \
     vendor/realme/realme_sdm710/proprietary/lib64/libwfdclient.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwfdclient.so \
     vendor/realme/realme_sdm710/proprietary/lib64/libwfdcommonutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwfdcommonutils.so \
     vendor/realme/realme_sdm710/proprietary/lib64/libwfdconfigutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwfdconfigutils.so \
@@ -472,8 +474,13 @@ PRODUCT_COPY_FILES += \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.gc2375h.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.gc2375h.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.gc5035.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.gc5035.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.hi846.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.hi846.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.imx316.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx316.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.imx362.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx362.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.imx471.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx471.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.imx519.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx519.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.imx586.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx586.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.s5k2x5.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.s5k2x5.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.s5k3p9sp.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.s5k3p9sp.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.s5kgw1.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.s5kgw1.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/com.qti.sensor.sp2509v.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.sp2509v.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib/camera/components/com.arcsoft.node.yuvhdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.arcsoft.node.yuvhdr.so \
@@ -950,8 +957,13 @@ PRODUCT_COPY_FILES += \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.gc2375h.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.gc2375h.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.gc5035.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.gc5035.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.hi846.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.hi846.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.imx316.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx316.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.imx362.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx362.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.imx471.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx471.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.imx519.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx519.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.imx586.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx586.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.s5k2x5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.s5k2x5.so \
+    vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.s5k3p9sp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.s5k3p9sp.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.s5kgw1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.s5kgw1.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensor.sp2509v.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.sp2509v.so \
     vendor/realme/realme_sdm710/proprietary/vendor/lib64/camera/com.qti.sensormodule.holitech_gc2375h.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.holitech_gc2375h.bin \
