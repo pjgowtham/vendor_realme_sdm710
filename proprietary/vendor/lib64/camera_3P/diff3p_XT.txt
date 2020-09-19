@@ -1,0 +1,33 @@
+Binary files ./components/com.oppo.node.preview.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.oppo.node.preview.so differ
+Binary files ./components/com.oppo.node.rearrtb.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.oppo.node.rearrtb.so differ
+Binary files ./components/com.qti.node.eisv2.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qti.node.eisv2.so differ
+Binary files ./components/com.qti.node.eisv3.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qti.node.eisv3.so differ
+Binary files ./components/com.qtistatic.stats.aec.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qtistatic.stats.aec.so differ
+Binary files ./components/com.qtistatic.stats.af.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qtistatic.stats.af.so differ
+Binary files ./components/com.qtistatic.stats.awb.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qtistatic.stats.awb.so differ
+Binary files ./components/com.qtistatic.stats.pdlib.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so differ
+Binary files ./components/com.qti.stats.aec.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qti.stats.aec.so differ
+Binary files ./components/com.qti.stats.af.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.qti.stats.af.so differ
+Binary files ./components/com.vidhance.node.eis.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.vidhance.node.eis.so differ
+Binary files ./components/com.vidhance.stats.aec_dmbr.so and /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera/components/com.vidhance.stats.aec_dmbr.so differ
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.holitech_gc2375h.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.holitech_sp2509v.bin
+Only in .: com.qti.sensormodule.ofilm_gc5035.bin
+Only in .: com.qti.sensormodule.ofilm_imx519.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.qtech_s5kgw1.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.sunny_hi846.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.sunny_s5kgw1.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.sunny_s5kgw1_evt0_2.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.sensormodule.trulyi2c20_imx471.bin
+Only in .: com.qti.sensormodule.truly_s5k2x5.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.holitech_gc2375h.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.holitech_sp2509v.bin
+Only in .: com.qti.tuned.ofilm_gc5035.bin
+Only in .: com.qti.tuned.ofilm_imx519.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.qtech_s5kgw1.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.sunny_hi846.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.sunny_s5kgw1.bin
+Only in /run/user/1000/gvfs/sftp:host=192.168.1.3/BlueZ_Storage/dumpyara/working/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA/vendor/lib64/camera: com.qti.tuned.truly_imx471.bin
+Only in .: com.qti.tuned.truly_s5k2x5.bin
+Only in .: diff3p_5p.txt
+Only in .: diff3p_XT.txt
